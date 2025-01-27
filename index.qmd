@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME" 
+title: "Daniel Xu" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -9,34 +9,34 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/danielxu-/
     - icon: instagram
       text: Instagram
       href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/danielxu12/danielxu12.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: resume-example.pdf
+      href: file:///C:/Users/danie/Downloads/Resume.pdf
       target: _blank
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:dx1@geneseo.edu
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Daniel majors in Economics with a minor in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time playing badminton and volletball with friends or video games. <br>
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Economics
+B.S. in Economics | Aug 2021 - May 2025 <br>
+Minor in Data Analytics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Resident Assistant (RA) | ResLife at Geneseo | Aug 2023 - Current
 
 
