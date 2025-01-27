@@ -6,6 +6,7 @@ website:
   title: "Daniel Xu"
   navbar: 
     # background: "#1c4982"
+    background: "#1c4982"
     pinned: true
     left:
       - text: Blog
