@@ -18,7 +18,7 @@ about:
       href: https://github.com/danielxu12/danielxu12.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: file:///C:/Users/danie/Downloads/Resume.pdf
+      href: xu-resume.pdf
       target: _blank
     - icon: mailbox
       text: Email
