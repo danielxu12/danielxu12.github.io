@@ -2,7 +2,7 @@
 title: "Daniel Xu" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: Daniel_Profile_Picture.png
   image-width: 16em
   image-shape: rounded # rectangle  round  rounded
   
@@ -10,12 +10,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/danielxu-/
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
     - icon: github
       text: GitHub
       href: https://github.com/danielxu12/danielxu12.github.io
+    - icon: instagram
+      text: Instagram
     - icon: file-earmark-pdf
       text: Resumé
       href: xu-resume.pdf
@@ -23,20 +22,16 @@ about:
     - icon: mailbox
       text: Email
       href: mailto:dx1@geneseo.edu
-
 ---
 
+I am a full-time student at SUNY Geneseo, majoring in Economics with a minor in Data Analytics within the AACSB-accredited School of Business. I am actively seeking a Data Analyst or Business Analyst internship to gain hands-on experience and explore my passion for these fields.
 
-Daniel majors in Economics with a minor in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time playing badminton and volletball with friends or video games. <br>
+My peers and mentors often describe me as hardworking, organized, and possessing strong communication skills. I am eager to contribute these qualities to a dynamic team. <br>
 
 ## Education
 
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Economics | Aug 2021 - May 2025 <br>
-Minor in Data Analytics
+State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Economics \| Aug 2021 - May 2025 <br> Minor in Data Analytics
 
 ## Experience
 
-Resident Assistant (RA) | ResLife at Geneseo | Aug 2023 - Current
-
-
+Resident Assistant (RA) \| ResLife at Geneseo \| Aug 2023 - Current
