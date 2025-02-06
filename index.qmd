@@ -2,7 +2,7 @@
 title: "Daniel Xu" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: Daniel_Profile_Picture.png
+  image: img/Daniel_Profile_Picture.png
   image-width: 16em
   image-shape: rounded # rectangle  round  rounded
   
@@ -13,8 +13,6 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/danielxu12/danielxu12.github.io
-    - icon: instagram
-      text: Instagram
     - icon: file-earmark-pdf
       text: Resumé
       href: xu-resume.pdf
