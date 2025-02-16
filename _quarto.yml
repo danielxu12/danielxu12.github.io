@@ -19,13 +19,10 @@ website:
            href: pandas_basics.ipynb
          - text: Seaborn Basic
            href: seaborn_basics.ipynb
-      - text: PySpark Basics
-        href: PySpark_Basics.ipynb
-        image: Hadoop Icon.pnggit
 
             
   page-footer: 
-    center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© YOUR NAME, 2025"
+    center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© Daniel Xu, 2025"
 
 format:
   html:
