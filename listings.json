@@ -2,6 +2,7 @@
   {
     "listing": "/blog-listing.html",
     "items": [
+      "/posts/Beer Markets/Beer Markets.html",
       "/posts/Ice Cream/HW_2_Jupyter_Notebook_Blogging.html",
       "/posts/pyspark/PySpark_Basics.html",
       "/posts/welcome/index.html",
