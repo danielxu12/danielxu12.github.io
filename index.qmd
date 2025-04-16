@@ -2,7 +2,7 @@
 title: "Daniel Xu" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: Profile.png
+  image: Pqurofile.png
   image-width: 16em
   image-shape: rounded # rectangle  round  rounded
   
