@@ -11,6 +11,8 @@ website:
     left:
       - text: Blog
         href: blog-listing.qmd
+      - text: Final Project
+        href: DANL_320_Final_Paper.pdf
       - text: Project
         href: danl_proj_nba.ipynb 
       - text: Python Data Analysis

@@ -20,6 +20,8 @@ about:
     - icon: mailbox
       text: Email
       href: mailto:dx1@geneseo.edu
+    - text: DANL 320 Project
+      href: DANL_320_Final_Paper.pdf
 ---
 
 I am a full-time student at SUNY Geneseo, majoring in Economics with a minor in Data Analytics within the AACSB-accredited School of Business. I am actively seeking a Data Analyst or Business Analyst internship to gain hands-on experience and explore my passion for these fields.
